@@ -1,4 +1,4 @@
-name: Monthly contributor report
+name: Yearly contributor report
 on:
   workflow_dispatch:
   schedule:
